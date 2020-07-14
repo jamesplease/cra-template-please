@@ -8,10 +8,6 @@ Add the option `--template cra-template-please` when creating a new CRA app.
 
 ```
 npx create-react-app my-app --template cra-template-please
-
-# or
-
-yarn create react-app my-app --template cra-template-please
 ```
 
 For more information, please refer to:
