@@ -7,7 +7,7 @@ My template for [Create React App](https://github.com/facebook/create-react-app)
 Add the option `--template cra-template-please` when creating a new CRA app.
 
 ```
-npx create-react-app my-app --template cra-template-please
+npx create-react-app --template cra-template-please my-app
 ```
 
 For more information, please refer to:
