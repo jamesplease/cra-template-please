@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-please",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "James' template for React apps.",
+  "main": "template.json",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
