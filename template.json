@@ -28,6 +28,7 @@
       "build": "GENERATE_SOURCEMAP=false && react-scripts build",
       "test": "react-scripts test",
       "eject": "react-scripts eject",
+      "build-analyze": "react-scripts build",
       "analyze": "npm run build-analyze && source-map-explorer 'build/static/js/*.js'"
     },
     "author": "James Smith <jamesplease2@gmail.com>",
