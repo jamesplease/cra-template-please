@@ -4,7 +4,7 @@ My personal template for [Create React App](https://github.com/facebook/create-r
 
 ## Usage
 
-> This assumes I have already [configured my computer](configuring-your-computer).
+> This assumes I have already [configured my computer](#configuring-your-computer).
 
 To scaffold an app, use:
 
