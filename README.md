@@ -2,6 +2,15 @@
 
 My personal template for [Create React App](https://github.com/facebook/create-react-app).
 
+Read about the features of this template [here](./guide.md).
+
+Useful for creating:
+
+✔ React web apps
+✔ Non-React web apps
+✔ Web-based experiments
+✔ Test grounds for new libraries
+
 ## Usage
 
 > This assumes I have already [configured my computer](#configuring-your-computer).
