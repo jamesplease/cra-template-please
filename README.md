@@ -6,9 +6,9 @@ Read about the features of this template [here](./guide.md).
 
 Useful for creating:
 
-✔ React web apps
-✔ Non-React web apps
-✔ Web-based experiments
+✔ React web apps  
+✔ Non-React web apps  
+✔ Web-based experiments  
 ✔ Test grounds for new libraries
 
 ## Usage
