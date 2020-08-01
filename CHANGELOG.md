@@ -1,5 +1,9 @@
 # Changelog
 
+### v1.0.0 (August 1st, 2020)
+
+This release marks feature stability.
+
 ### v0.0.3 (July 31st, 2020)
 
 **New features**
