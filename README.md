@@ -4,16 +4,27 @@ My template for [Create React App](https://github.com/facebook/create-react-app)
 
 ## Usage
 
-Add the option `--template cra-template-please` when creating a new CRA app.
+> This assumes you have configured your computer.
+
+To scaffold an app, use:
 
 ```
-npx create-react-app --template cra-template-please my-app
+cra {name_of_app}
 ```
 
-For more information, please refer to:
+To create an app in the current directory, use:
 
-- [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
-- [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
+```
+cra .
+```
+
+## Configuring Your Computer
+
+Create an alias for `cra`:
+
+```
+alias cra="npx create-react-app --template cra-template-please"
+```
 
 ### Checklist
 
@@ -34,3 +45,10 @@ npx create-react-app my-app --template file:./cra-template-please
 
 - Everything is a `dependency` in `template.json` because Create React App templates do not support
   `devDependencies` as of July 2020.
+
+## Learn More
+
+For more information, please refer to:
+
+- [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
+- [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
