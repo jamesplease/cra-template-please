@@ -4,7 +4,7 @@ My personal template for [Create React App](https://github.com/facebook/create-r
 
 Read about the features of this template [here](./guide.md).
 
-Useful for creating:
+This template is useful for creating:
 
 ✓ React web apps  
 ✓ Non-React web apps  
