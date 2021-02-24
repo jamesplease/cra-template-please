@@ -1,5 +1,9 @@
 # Changelog
 
+### v1.1.0 (February 24th, 2021)
+
+- Updated dependencies: React 17, CRA 4, TypeScript 4.
+
 ### v1.0.0 (August 1st, 2020)
 
 This release marks feature stability.
